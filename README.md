@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name is Anastasia and im part of **Black codhers bootcamp**. I recently just graduated from my bachelors degree in biochemistry and looking to get involved into the tech world. My parents are originally from Nigerian but i was born in italy and so i can speak italian fluently.
+Im interested in learning how to code websites, so essentially becoming a software engineer at the end of this bootcamp which involves becoming a full stack developer.
+Right now im working on how to use Github, what commands to use to make new directoriess and files in the directories and commands for git.
+My hubbies currently are to binge watch shows on netflix, my favourite shows curretly are squid game, You and money heist.
 <!--
 **ana31d5/ana31d5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
